@@ -1,0 +1,8 @@
+mss==9.0.1
+Pillow==10.0.0
+pip==23.2.1
+psutil==5.9.5
+pynput==1.7.6
+setuptools==65.5.0
+six==1.16.0
+utils==1.0.1
